@@ -122,7 +122,7 @@
                 android:layout_marginTop="6dp"
                 android:background="@drawable/addtocartshape"
                 android:fontFamily="@font/yeonsung_regular"
-                android:text="⭐ Rate"
+                android:text="⭐ Rate Now"
                 android:textAllCaps="false"
                 android:textColor="@color/white"
                 android:textSize="11sp"

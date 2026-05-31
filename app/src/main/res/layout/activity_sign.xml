@@ -29,7 +29,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:fontFamily="sans-serif"
-            android:text="SpicyBite"
+            android:text="Spicy Bite"
             android:textColor="@color/black"
             android:textSize="24sp"
             android:textStyle="bold" />

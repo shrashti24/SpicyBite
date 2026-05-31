@@ -30,6 +30,7 @@
             android:text="Spicy Bite"
             android:textSize="24sp"
             android:textStyle="bold"
+            android:textColor="@color/black"
             android:layout_marginTop="16dp"/>
 
         <!-- Subtitle -->
